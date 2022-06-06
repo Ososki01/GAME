@@ -6,6 +6,7 @@ public abstract class Character {
     private int inventorylimit;
 
     private int maxHP;
+    System.out.prinln("Deneme");
 
 
 

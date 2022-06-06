@@ -6,13 +6,9 @@ public class Test {
 
 
 
-        Fighter1.create();
+
         Fighter1.showstats();
-
-        Tank1.create();
         Tank1.showstats();
-
-        Healer1.create();
         Healer1.showstats();
 
 

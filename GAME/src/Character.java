@@ -7,7 +7,8 @@ public abstract class Character {
 
     private int maxHP;
 
-    public abstract void create();
+
+
     public abstract void showstats();
 
 

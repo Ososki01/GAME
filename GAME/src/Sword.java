@@ -3,4 +3,5 @@ public class Sword extends Weapon{
     {
         super(name,weight,value);
     }
+
 }
